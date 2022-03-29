@@ -10,7 +10,7 @@
 }
 /* списки ссыллок денис */
 .list-denis a:hover {
-  color: rgb(43, 165, 13);
+  color: rgb(47, 240, 9);
 }
 
 /* маркера у спикеров */
@@ -26,4 +26,23 @@
 /* красный цвет ссылок в блоке репета */
 .repeta-div1 a {
   color: red;
+}
+
+.ul-repeta-1video a:hover {
+  color: blue;
+}
+
+/* бледно красный цвет  */
+.title-video2-html {
+  color: rgb(224, 122, 114);
+}
+
+/* бледно красный цвет списка */
+.title-video2-html a {
+  color: rgb(224, 122, 114);
+}
+
+/* ховер ссылок второго видео репеты */
+.title-video2-html a:hover {
+  color: blue;
 }
