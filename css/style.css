@@ -1,0 +1,29 @@
+/* Денис */
+/* денис титул */
+.title-denis {
+  color: blue;
+}
+
+/* список ссылок */
+.list-denis a {
+  color: blue;
+}
+/* списки ссыллок денис */
+.list-denis a:hover {
+  color: rgb(43, 165, 13);
+}
+
+/* маркера у спикеров */
+.mark-speackers {
+  list-style: none;
+}
+
+/* красный див репеты */
+.repeta-div1 {
+  color: red;
+}
+
+/* красный цвет ссылок в блоке репета */
+.repeta-div1 a {
+  color: red;
+}
