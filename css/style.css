@@ -1,48 +1,57 @@
-/* Денис */
-/* денис титул */
+/* body */
+body {
+  background-color: rgb(233, 225, 225);
+}
+/* a:hover,
+a:focus {
+  color: rgb(0, 0, 0);
+} */
+.title-video {
+  color: rgb(252, 252, 1);
+}
+
+.title-html {
+  color: rgb(16, 112, 236);
+}
+
+/* denis */
 .title-denis {
-  color: blue;
+  color: rgb(16, 112, 236);
 }
 
-/* список ссылок */
-.list-denis a {
-  color: blue;
-}
-/* списки ссыллок денис */
-.list-denis a:hover {
-  color: rgb(47, 240, 9);
+.denis-list a {
+  color: rgb(16, 112, 236);
 }
 
-/* маркера у спикеров */
-.mark-speackers {
-  list-style: none;
+.denis-link:hover,
+.denis-link:focus {
+  color: black;
 }
 
-/* красный див репеты */
-.repeta-div1 {
-  color: red;
+/* Репета
+ */
+.repeta-title {
+  color: rgb(248, 0, 0);
 }
 
-/* красный цвет ссылок в блоке репета */
-.repeta-div1 a {
-  color: red;
+.repeta-list a {
+  color: rgb(248, 0, 0);
+}
+/* 
+.repeta-link:hover,
+.repeta-link:focus {
+  color: black;
+} */
+
+.repeta-list2 a {
+  color: rgb(238, 128, 128);
 }
 
-.ul-repeta-1video a:hover {
-  color: blue;
+.repeta-title2 {
+  color: rgb(238, 128, 128);
 }
 
-/* бледно красный цвет  */
-.title-video2-html {
-  color: rgb(224, 122, 114);
-}
-
-/* бледно красный цвет списка */
-.title-video2-html a {
-  color: rgb(224, 122, 114);
-}
-
-/* ховер ссылок второго видео репеты */
-.title-video2-html a:hover {
-  color: blue;
+a:hover,
+a:focus {
+  color: black;
 }
