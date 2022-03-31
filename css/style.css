@@ -2,10 +2,7 @@
 body {
   background-color: rgb(233, 225, 225);
 }
-/* a:hover,
-a:focus {
-  color: rgb(0, 0, 0);
-} */
+
 .title-video {
   color: rgb(252, 252, 1);
 }
@@ -14,11 +11,17 @@ a:focus {
   color: rgb(16, 112, 236);
 }
 
+/* спикеры штмл */
+.list-speakers-v {
+  list-style: none;
+}
+
 /* denis */
 .title-denis {
   color: rgb(16, 112, 236);
 }
 
+/* ссылки в списке денис */
 .denis-list a {
   color: rgb(16, 112, 236);
 }
@@ -28,21 +31,17 @@ a:focus {
   color: black;
 }
 
-/* Репета
- */
+/* Репета*/
 .repeta-title {
   color: rgb(248, 0, 0);
 }
 
+/* ссылки листа репета */
 .repeta-list a {
   color: rgb(248, 0, 0);
 }
-/* 
-.repeta-link:hover,
-.repeta-link:focus {
-  color: black;
-} */
 
+/* ссылки второго видео репеты */
 .repeta-list2 a {
   color: rgb(238, 128, 128);
 }
@@ -54,4 +53,27 @@ a:focus {
 a:hover,
 a:focus {
   color: black;
+}
+
+/* css */
+
+.list-speakers-video {
+  list-style: none;
+}
+.title-ccs {
+  color: rgb(230, 17, 183);
+}
+
+.list {
+  color: yellow;
+}
+
+/* Repin */
+.repin-title {
+  color: green;
+}
+
+/* ссылки репина цсс */
+.list-repin a {
+  color: green;
 }
